@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Name : Yong Ann
+        \n\nAddress : 1144B Lorong Chicha Jalan Bayam
+        \n\nCurrent Study : Software Engineering
+        \n\nUniversity : TARUC
+        \n\nWorking Experiences : Cashier, waiter
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+        \n\nHI
+    </string>
+</resources>
