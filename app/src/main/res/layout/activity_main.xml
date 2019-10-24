@@ -15,6 +15,11 @@
         app:fontFamily="@font/roboto"
         style="@style/font_style" />
 
+    <EditText
+        android:id="@+id/editTextNickName"
+        android:hint="@string/what_is_your_nickname"
+        style="@style/NameStyle" />
+
     <ImageView
         android:id="@+id/imageView"
         android:contentDescription="@string/profile_pic"

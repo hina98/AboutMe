@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">About Me</string>
+    <string name="app_name">About Me2</string>
     <string name="profile_pic">Profile Picture</string>
     <string name="profile_desc">
         Name : Yong Ann
@@ -19,4 +19,5 @@
         \n\nHI
         \n\nHI
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
 </resources>
